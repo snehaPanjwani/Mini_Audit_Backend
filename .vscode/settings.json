@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a38dd022-f949-4473-9e76-49b12fed1f8e/resourceGroups/Mini_Audit/providers/Microsoft.Web/sites/Mini-Audit-App",
+    "appService.deploySubpath": "."
+}
